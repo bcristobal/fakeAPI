@@ -1,0 +1,90 @@
+{
+    "tarifas-fibra+movil": [
+        {
+            "id": 0,
+            "descripcion": "Nuestra tarifa de fibra y móvil más barata",
+            "fibra": 500,
+            "fijo": true,
+            "movil": {
+                "megas": 20000,
+                "llamadas": true
+            },
+            "netflix": false,
+            "precio": {
+                "inicial": 45.00,
+                "final": 45.00,
+                "duracion": 0
+            }
+        },
+        {
+            "id": 1,
+            "descripcion": "Fibra 500 Mb móvil 25 Gb + Netflix",
+            "fibra": 500,
+            "fijo": true,
+            "movil": {
+                "megas": 25000,
+                "llamadas": true
+            },
+            "netflix": true,
+            "precio": {
+                "inicial": 48.00,
+                "final": 48.00,
+                "duracion": 0
+            }
+        },
+        {
+            "id": 2,
+            "descripcion": "Nuestra mejor tarifa de fibra y móvil",
+            "fibra": 500,
+            "fijo": true,
+            "movil": {
+                "megas": -1,
+                "llamadas": true
+            },
+            "netflix": false,
+            "precio": {
+                "inicial": 59.00,
+                "final": 59.00,
+                "duracion": 0
+            }
+        }
+    ],
+    "tarifas-movil": [
+        {
+            "id": 0,
+            "descripcion": "La sinfín 10 Gb",
+            "megas": 10000,
+            "llamadas-ilimitadas": true,
+            "permanencia": false,
+            "precio": {
+                "inicial": 9.00,
+                "final": 10.00,
+                "duracion": 12
+            }
+        },
+        {
+            "id": 1,
+            "descripcion": "La sinfín 25 Gb",
+            "megas": 25000,
+            "llamadas-ilimitadas": true,
+            "permanencia": false,
+            "precio": {
+                "inicial": 14.40,
+                "final": 16.00,
+                "duracion": 12
+            }
+        },
+        {
+            "id": 2,
+            "descripcion": "La sinfín 55 Gb",
+            "megas": 55000,
+            "llamadas-ilimitadas": true,
+            "permanencia": false,
+            "precio": {
+                "inicial": 23.40,
+                "final": 26.00,
+                "duracion": 12
+            }
+        }
+    ]
+}

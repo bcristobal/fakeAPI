@@ -47,6 +47,86 @@
                 "final": 59.00,
                 "duracion": 0
             }
+        },
+        {
+            "id": 3,
+            "descripcion": "Fibra 1 Gb + móvil con Gb infinitos",
+            "fibra": 1000,
+            "fijo": true,
+            "movil": {
+                "megas": -1,
+                "llamadas": true
+            },
+            "netflix": false,
+            "precio": {
+                "inicial": 62.00,
+                "final": 77.00,
+                "duracion": 3
+            }
+        },
+        {
+            "id": 4,
+            "descripcion": "Fibra 1 Gb + móvil 25 Gb + Netflix",
+            "fibra": 1000,
+            "fijo": true,
+            "movil": {
+                "megas": 25000,
+                "llamadas": true
+            },
+            "netflix": true,
+            "precio": {
+                "inicial": 48.00,
+                "final": 63.00,
+                "duracion": 3
+            }
+        },
+        {
+            "id": 5,
+            "descripcion": "Fibra 1 Gb + móvil 45 Gb + Netflix",
+            "fibra": 1000,
+            "fijo": true,
+            "movil": {
+                "megas": 45000,
+                "llamadas": true
+            },
+            "netflix": true,
+            "precio": {
+                "inicial": 52.00,
+                "final": 67.00,
+                "duracion": 3
+            }
+        },
+        {
+            "id": 6,
+            "descripcion": "Fibra 1 Gb + móvil 1 Gb",
+            "fibra": 1000,
+            "fijo": true,
+            "movil": {
+                "megas": 1000,
+                "llamadas": true
+            },
+            "netflix": false,
+            "precio": {
+                "inicial": 56.00,
+                "final": 71.00,
+                "duracion": 3
+            }
+        },
+        {
+            "id": 7,
+            "descripcion": "Fibra 1 Gb + móvil 5 Gb",
+            "fibra": 1000,
+            "fijo": true,
+            "movil": {
+                "megas": 5000,
+                "llamadas": true
+            },
+            "netflix": false,
+            "precio": {
+                "inicial": 48.00,
+                "final": 63.00,
+                "duracion": 3
+            }
         }
     ],
     "tarifas-movil": [
@@ -85,6 +165,166 @@
                 "final": 26.00,
                 "duracion": 12
             }
+        },
+        {
+            "id": 3,
+            "descripcion": "La sinfín 100 Gb",
+            "megas": 100000,
+            "llamadas-ilimitadas": true,
+            "permanencia": false,
+            "precio": {
+                "inicial": 32.40,
+                "final": 36.00,
+                "duracion": 12
+            }
+        },
+        {
+            "id": 4,
+            "descripcion": "La sinfín 150 Gb",
+            "megas": 150000,
+            "llamadas-ilimitadas": true,
+            "permanencia": false,
+            "precio": {
+                "inicial": 41.40,
+                "final": 46.00,
+                "duracion": 12
+            }
+        },
+        {
+            "id": 5,
+            "descripcion": "La sinfín 200 Gb",
+            "megas": 200000,
+            "llamadas-ilimitadas": true,
+            "permanencia": false,
+            "precio": {
+                "inicial": 50.40,
+                "final": 56.00,
+                "duracion": 12
+            }
+        },
+        {
+            "id": 6,
+            "descripcion": "La sinfín 300 Gb",
+            "megas": 300000,
+            "llamadas-ilimitadas": true,
+            "permanencia": false,
+            "precio": {
+                "inicial": 68.40,
+                "final": 76.00,
+                "duracion": 12
+            }
+        },
+        {
+            "id": 7,
+            "descripcion": "La sinfín 500 Gb",
+            "megas": 500000,
+            "llamadas-ilimitadas": true,
+            "permanencia": true,
+            "precio": {
+                "inicial": 104.40,
+                "final": 116.00,
+                "duracion": 12
+            }
         }
+    ],
+    "movil": [
+        {
+            "id": 0,
+            "nombre": "Samsung Galaxy A20e",
+            "marca": "Samsung",
+            "img": "https://www.phonehouse.es/imagenes/imagenes/ficha/samsung/galaxy-a20e/azul/azul-1.jpg",
+            "precio": {
+                "mensual": 27.75,
+                "duracion": 28,
+                "final": 343.00
+            },
+            "tarifa": "La sinfín 10 Gb"
+        },
+        {
+            "id": 1,
+            "nombre": "Samsung Galaxy A40",
+            "marca": "Samsung",
+            "img": "https://www.phonehouse.es/imagenes/imagenes/ficha/samsung/galaxy-a40/azul/azul-1.jpg",
+            "precio": {
+                "mensual": 27.75,
+                "duracion": 28,
+                "final": 343.00
+            },
+            "tarifa": "La sinfín 10 Gb"
+        },
+        {
+            "id": 2,
+            "nombre": "iPhone 12",
+            "marca": "Apple",
+            "img": "https://www.apple.com/v/iphone-12/d/images/overview/iphone_12_purple_select_2021_AV3.jpg",
+            "precio": {
+                "mensual": 35.75,
+                "duracion": 24,
+                "final": 857.00
+            },
+            "tarifa": "La sinfín 100 Gb"
+        },
+        {
+            "id": 3,
+            "nombre": "Google Pixel 4a",
+            "marca": "Google",
+            "img": "https://store.google.com/us/product/pixel_4a?hl=en-US",
+            "precio": {
+                "mensual": 25.75,
+                "duracion": 24,
+                "final": 617.00
+            },
+            "tarifa": "La sinfín 150 Gb"
+        },
+        {
+            "id": 4,
+            "nombre": "OnePlus 9",
+            "marca": "OnePlus",
+            "img": "https://www.oneplus.com/9",
+            "precio": {
+                "mensual": 30.75,
+                "duracion": 24,
+                "final": 737.00
+            },
+            "tarifa": "La sinfín 200 Gb"
+        }
+    ],
+    "otros-dispositivos": [
+        {
+            "id": 0,
+            "nombre": "Samsung Galaxy Watch 4",
+            "marca": "Samsung",
+            "img": "https://www.samsung.com/es/wearables/galaxy-watch4-44mm-r870/SM-R870NZKAEUB/",
+            "precio": {
+                "mensual": 10.00,
+                "duracion": 24,
+                "final": 240.00
+            },
+            "tarifa": "La sinfín 10 Gb"
+        },
+        {
+            "id": 1,
+            "nombre": "Samsung Galaxy Buds Pro",
+            "marca": "Samsung",
+            "img": "https://www.samsung.com/es/audio-sound/galaxy-buds/galaxy-buds-pro-violet-sm-r190nzvafto/",
+            "precio": {
+                "mensual": 5.00,
+                "duracion": 24,
+                "final": 120.00
+            },
+            "tarifa": "La sinfín 10 Gb"
+        },
+        {
+            "id": 2,
+            "nombre": "Samsung Galaxy Tab S7",
+            "marca": "Samsung",
+            "img": "https://www.samsung.com/es/tablets/galaxy-tab-s7-11-inch-t870/",
+            "precio": {
+                "mensual": 20.00,
+                "duracion": 24,
+                "final": 480.00
+            },
+            "tarifa": "La sinfín 10 Gb"
+        }       
     ]
 }

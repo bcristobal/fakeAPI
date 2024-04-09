@@ -230,9 +230,9 @@
     "movil": [
         {
             "id": 0,
-            "nombre": "Samsung Galaxy A20e",
+            "nombre": "Samsung Galaxy A25 5G",
             "marca": "Samsung",
-            "img": "https://www.phonehouse.es/imagenes/imagenes/ficha/samsung/galaxy-a20e/azul/azul-1.jpg",
+            "img": "https://storage.googleapis.com/device-images-prod/P034A25NC/P034A25NC-1-large.jpg?w=60",
             "precio": {
                 "mensual": 27.75,
                 "duracion": 28,
@@ -242,9 +242,9 @@
         },
         {
             "id": 1,
-            "nombre": "Samsung Galaxy A40",
+            "nombre": "Samsung Galaxy S24 Ultra 5G",
             "marca": "Samsung",
-            "img": "https://www.phonehouse.es/imagenes/imagenes/ficha/samsung/galaxy-a40/azul/azul-1.jpg",
+            "img": "https://storage.googleapis.com/device-images-prod/P03424UNC/P03424UNC-1-large.jpg?w=60",
             "precio": {
                 "mensual": 27.75,
                 "duracion": 28,
@@ -254,9 +254,9 @@
         },
         {
             "id": 2,
-            "nombre": "iPhone 12",
+            "nombre": "iPhone 14",
             "marca": "Apple",
-            "img": "https://www.apple.com/v/iphone-12/d/images/overview/iphone_12_purple_select_2021_AV3.jpg",
+            "img": "https://storage.googleapis.com/device-images-prod/P097141AC/P097141AC-1-large.jpg?w=60",
             "precio": {
                 "mensual": 35.75,
                 "duracion": 24,
@@ -268,7 +268,7 @@
             "id": 3,
             "nombre": "Google Pixel 4a",
             "marca": "Google",
-            "img": "https://store.google.com/us/product/pixel_4a?hl=en-US",
+            "img": "https://lh3.googleusercontent.com/16rOpP9jjdczMqjsRFqJ4hFwXxGsF9aTJEqZF-Pc99bNlqYIQhqBqo7LjtoGaMepPPwIlYhv-9Lx1FukFxUfpnZs_Q_zjlo6nDY",
             "precio": {
                 "mensual": 25.75,
                 "duracion": 24,

@@ -266,27 +266,15 @@
         },
         {
             "id": 3,
-            "nombre": "Google Pixel 4a",
-            "marca": "Google",
-            "img": "https://lh3.googleusercontent.com/16rOpP9jjdczMqjsRFqJ4hFwXxGsF9aTJEqZF-Pc99bNlqYIQhqBqo7LjtoGaMepPPwIlYhv-9Lx1FukFxUfpnZs_Q_zjlo6nDY",
+            "nombre": "Xiaomi RedMi A2 64Gb",
+            "marca": "Xiaomi",
+            "img": "https://storage.googleapis.com/device-images-prod/P055A26AC/P055A26AC-1-large.jpg?w=60",
             "precio": {
                 "mensual": 25.75,
                 "duracion": 24,
                 "final": 617.00
             },
             "tarifa": "La sinfín 150 Gb"
-        },
-        {
-            "id": 4,
-            "nombre": "OnePlus 9",
-            "marca": "OnePlus",
-            "img": "https://www.oneplus.com/9",
-            "precio": {
-                "mensual": 30.75,
-                "duracion": 24,
-                "final": 737.00
-            },
-            "tarifa": "La sinfín 200 Gb"
         }
     ],
     "otros-dispositivos": [

@@ -280,39 +280,51 @@
     "otros-dispositivos": [
         {
             "id": 0,
-            "nombre": "Samsung Galaxy Watch 4",
-            "marca": "Samsung",
-            "img": "https://www.samsung.com/es/wearables/galaxy-watch4-44mm-r870/SM-R870NZKAEUB/",
+            "nombre": "Apple Watch SE 40mm",
+            "marca": "Apple",
+            "img": "https://storage.googleapis.com/device-images-prod/P097WS4BC/P097WS4BC-1-large.jpg?w=60",
             "precio": {
-                "mensual": 10.00,
-                "duracion": 24,
-                "final": 240.00
+                "mensual": 5.50,
+                "duracion": 36,
+                "final": 59.00
             },
             "tarifa": "La sinfín 10 Gb"
         },
         {
             "id": 1,
-            "nombre": "Samsung Galaxy Buds Pro",
+            "nombre": "Samsung Watch 6 44mm",
             "marca": "Samsung",
-            "img": "https://www.samsung.com/es/audio-sound/galaxy-buds/galaxy-buds-pro-violet-sm-r190nzvafto/",
+            "img": "https://storage.googleapis.com/device-images-prod/G034W64B2/G034W64B2-1-large.jpg?w=60",
             "precio": {
-                "mensual": 5.00,
+                "mensual": 7.50,
                 "duracion": 24,
-                "final": 120.00
+                "final": 28.00
             },
             "tarifa": "La sinfín 10 Gb"
         },
         {
             "id": 2,
-            "nombre": "Samsung Galaxy Tab S7",
-            "marca": "Samsung",
-            "img": "https://www.samsung.com/es/tablets/galaxy-tab-s7-11-inch-t870/",
+            "nombre": "Microsoft Xbox Series S 512Gb",
+            "marca": "Microsoft",
+            "img": "https://storage.googleapis.com/device-images-prod/G078XBSW2/G078XBSW2-1-large.jpg?w=60",
             "precio": {
-                "mensual": 20.00,
+                "mensual": 6.00,
                 "duracion": 24,
                 "final": 480.00
             },
             "tarifa": "La sinfín 10 Gb"
-        }       
+        },
+        {
+            "id": 3,
+            "nombre": "Airpod Pro",
+            "marca": "Apple",
+            "img": "https://storage.googleapis.com/device-images-prod/G097PP2WC/G097PP2WC-1-large.jpg?w=60",
+            "precio": {
+                "mensual": 10.00,
+                "duracion": 24,
+                "final": 480.00
+            },
+            "tarifa": "La sinfín 10 Gb"
+        }
     ]
 }

@@ -17,7 +17,7 @@ Then, you can run using the next command:
 
     npx json-server --watch db.json --port 3333
 
-Use the '-- port' to specify the number of the port and '--watch' tells the server to monitor the db.json file for any changes. If any changes are detected in the db.json file, the server will automatically reload the data without needing to be manually restarted. 
+Use the `-- port` to specify the number of the port and `--watch` tells the server to monitor the db.json file for any changes. If any changes are detected in the db.json file, the server will automatically reload the data without needing to be manually restarted. 
 
 
 

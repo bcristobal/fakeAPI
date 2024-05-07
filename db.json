@@ -326,5 +326,55 @@
             },
             "tarifa": "La sinfín 10 Gb"
         }
+    ],
+    "movil-usa": [
+        {
+            "id": 4,
+            "nombre": "Google Pixel 6 Pro",
+            "marca": "Google",
+            "img": "https://storage.googleapis.com/device-images-prod/P034G6PBC/P034G6PBC-1-large.jpg?w=60",
+            "precio": {
+                "mensual": 30.50,
+                "duracion": 24,
+                "final": 732.00
+            },
+            "tarifa": "La sinfín 50 Gb"
+        },
+        {
+            "id": 5,
+            "nombre": "OnePlus 10 Pro",
+            "marca": "OnePlus",
+            "img": "https://storage.googleapis.com/device-images-prod/P04410PAC/P04410PAC-1-large.jpg?w=60",
+            "precio": {
+                "mensual": 33.25,
+                "duracion": 24,
+                "final": 798.00
+            },
+            "tarifa": "La sinfín 200 Gb"
+        },
+        {
+            "id": 6,
+            "nombre": "Sony Xperia 5 III",
+            "marca": "Sony",
+            "img": "https://storage.googleapis.com/device-images-prod/P034X5IBC/P034X5IBC-1-large.jpg?w=60",
+            "precio": {
+                "mensual": 28.75,
+                "duracion": 24,
+                "final": 690.00
+            },
+            "tarifa": "La sinfín 100 Gb"
+        },
+        {
+            "id": 7,
+            "nombre": "Motorola Moto G Power (2022)",
+            "marca": "Motorola",
+            "img": "https://storage.googleapis.com/device-images-prod/P082A36FC/P082A36FC-1-large.jpg?w=60",
+            "precio": {
+                "mensual": 20.00,
+                "duracion": 24,
+                "final": 480.00
+            },
+            "tarifa": "La sinfín 25 Gb"
+        }
     ]
 }
